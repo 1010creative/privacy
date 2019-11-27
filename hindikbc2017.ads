@@ -1,5 +1,5 @@
 {
-  "banner_ad_network":1,
+  "banner_ad_network":0,
   "interstitial_ad_network":1,
   "video_ad_network":1,
   "admob_banner_android_id": "ca-app-pub-2313206220567592/5779432061",
