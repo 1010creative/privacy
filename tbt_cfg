@@ -1,7 +1,7 @@
 {
-  "banner_ad_network":1,
-  "interstitial_ad_network":1,
-  "video_ad_network":1,
+  "banner_ad_network":0,
+  "interstitial_ad_network":0,
+  "video_ad_network":0,
   "admob_banner_android_id": "ca-app-pub-2313206220567592/3307573161",
   "admob_fullscreen_android_id": "ca-app-pub-2313206220567592/5742164811",
   "admob_video_reward_android_id": "ca-app-pub-2313206220567592/6957498974",
